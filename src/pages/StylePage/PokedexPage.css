@@ -1,0 +1,28 @@
+.title__pokedex__2{
+    width: 30%;
+}
+.header__container{
+    background-color: red;
+    
+    height: 15%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 20px;
+}
+.title__pokebola{
+    width: 10%;
+}
+.containerp{
+    width:  100%;
+    text-align: center;
+    
+    align-content: center;
+    align-items: center;
+}
+.p__container{
+    font-size: 3vh;
+}
+.span__p{
+    color: red;
+}

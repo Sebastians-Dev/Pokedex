@@ -1,0 +1,21 @@
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    flex-wrap: wrap;
+}
+.gap-page{
+    gap: 0.5em;
+}
+.gap-page li {
+    cursor: pointer;
+    padding: 0.5em;
+    color: white;
+    background-color: red;
+    &:hover{
+        filter: brightness(2);
+    }
+}
+.gap-page .active-page{
+    background-color: blueviolet;
+}

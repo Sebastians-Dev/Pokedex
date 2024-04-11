@@ -1,0 +1,28 @@
+.container__hp{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url('/img/fondo1.jpg');
+    background-size: cover;
+    background-position: center;
+    
+}
+.title__pokedex{
+    width:  60%;
+}
+.form__button{
+    color: white;
+    background-color: red;
+    border: 1px solid black;
+}
+.form__input{
+    background-color: transparent;
+    border-radius: 3px;
+    border: 0.5px solid black;
+}
+
+
+
